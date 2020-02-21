@@ -20,7 +20,7 @@
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/39699305/74936835-c6213200-53e2-11ea-8231-4f16ddf3cb46.png)
+![image]()
 
 ## Useful links and resources
 
