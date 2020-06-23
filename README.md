@@ -2,7 +2,8 @@
 
  Open source project
 
-# Web Page: https://fernandofatech.github.io/random-meal-generator/
+# Web Page:
+https://fernandofatech.github.io/random-meal-generator/
  
  Generate a random meal from an API.
  
@@ -12,7 +13,8 @@
  
 Email-me: Fernando.tech@icloud.com
 
-Connect with me at [LinkedIn] (https://www.linkedin.com/in/fernando-francisco-azevedo/).
+Connect with me at [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo/).
+www.linkedin.com/in/fernando-francisco-azevedo
 
 Also, you can use this Project as you wish, could it be to study, make improvements or even earn money with it.
 
