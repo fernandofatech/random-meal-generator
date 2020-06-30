@@ -44,3 +44,5 @@ It's free!
 
 - [TheMealDB API](https://www.themealdb.com)
 
+## Feel free to use it, open a Pull Request, give suggestions.
+
